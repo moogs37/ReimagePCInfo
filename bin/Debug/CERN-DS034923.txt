@@ -1,0 +1,31 @@
+Re-Image PC Deployment
+
+HostName: CERN-DS034923
+
+Printer Information:
+
+Printer Name: Send To OneNote 2010
+Is Default?: False
+Driver Name: Send To Microsoft OneNote 2010 Driver
+Port Address: nul:
+
+Printer Name: Microsoft XPS Document Writer
+Is Default?: False
+Driver Name: Microsoft XPS Document Writer
+Port Address: XPSPort:
+
+Printer Name: KONICA MINOLTA 423SeriesPCL
+Is Default?: True
+Driver Name: KONICA MINOLTA 423SeriesPCL
+Port Address: 10.133.39.38
+
+Printer Name: Fax
+Is Default?: False
+Driver Name: Microsoft Shared Fax Driver
+Port Address: SHRFAX:
+
+Printer Name: Adobe PDF
+Is Default?: False
+Driver Name: Adobe PDF Converter
+Port Address: Documents\*.pdf
+

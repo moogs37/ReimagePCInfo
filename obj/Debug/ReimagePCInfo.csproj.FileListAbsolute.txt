@@ -1,0 +1,18 @@
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\bin\Debug\ReimagePCInfo.exe.config
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\bin\Debug\ReimagePCInfo.exe
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\bin\Debug\ReimagePCInfo.pdb
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.csprojResolveAssemblyReference.cache
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.Form1.resources
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.Properties.Resources.resources
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.csproj.GenerateResource.Cache
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.exe
+C:\Users\dalsmith\Documents\GitHub\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.pdb
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\bin\Debug\ReimagePCInfo.exe.config
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.exe
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.pdb
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.csprojResolveAssemblyReference.cache
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.Form1.resources
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.Properties.Resources.resources
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\obj\Debug\ReimagePCInfo.csproj.GenerateResource.Cache
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\bin\Debug\ReimagePCInfo.exe
+C:\Users\DS034923\Documents\Visual Studio 2013\Projects\ReimagePCInfo\ReimagePCInfo\bin\Debug\ReimagePCInfo.pdb
