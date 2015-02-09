@@ -1,0 +1,36 @@
+Re-Image PC Deployment
+HostName: HBA8232DALLAS
+Computer IP Address: ip
+
+Printer Information:
+
+Printer Name: Send To OneNote 2013
+Is Default?: False
+Driver Name: Send to Microsoft OneNote 15 Driver
+Port Address: nul:
+
+Printer Name: Microsoft XPS Document Writer
+Is Default?: False
+Driver Name: Microsoft XPS Document Writer
+Port Address: XPSPort:
+
+Printer Name: KONICA MINOLTA 423SeriesPCL
+Is Default?: False
+Driver Name: KONICA MINOLTA 423SeriesPCL
+Port Address: 10.133.39.38
+
+Printer Name: HP LaserJet - Library
+Is Default?: True
+Driver Name: HP Universal Printing PCL 6
+Port Address: 10.16.12.163
+
+Printer Name: Fax
+Is Default?: False
+Driver Name: Microsoft Shared Fax Driver
+Port Address: SHRFAX:
+
+Printer Name: DYMO LabelWriter 400 Turbo
+Is Default?: False
+Driver Name: DYMO LabelWriter 400 Turbo
+Port Address: USB001
+
